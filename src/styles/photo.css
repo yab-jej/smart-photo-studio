@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  background-color: #050505;
+  font-family: Inter, 'Segoe UI', sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+::selection {
+  background: #c9a96b;
+  color: #050505;
+}
